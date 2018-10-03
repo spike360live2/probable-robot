@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 jte ooff
-=======
-jte raejfndxd
 >>>>>>> master
